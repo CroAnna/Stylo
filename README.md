@@ -1,6 +1,6 @@
 # Stylo
 
-Webshop project with CMS and MACH architecture. Build using React and Express. 🚀
+Webshop project with CMS and MACH architecture. Built using React and Express. 🚀
 
 ![logo](https://github.com/CroAnna/Stylo/assets/90924342/0c978658-8e20-4f57-8151-a0a955515b01)
 
