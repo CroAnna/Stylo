@@ -27,10 +27,9 @@ This was a team project and created by 5 students (including myself) and reviewe
   <li><a href="#ui">Stylo UI</a></li>
 </ul>
 
-
+<div id="devteam"></div>
 
 ## Development team
-<div id="devteam"></div>
 
 | Role | Github username  |  
 |---|---|
@@ -40,8 +39,10 @@ This was a team project and created by 5 students (including myself) and reviewe
 | Backend |  @Robert4361 | 
 | DevOps | @Filip1402   | 
 
-## Project description and features
 <div id="description"></div>
+
+## Project description and features
+
 
 The Stylo application represents an E-commerce webshop designed to integrate Content Management System (CMS) and E-commerce systems, employing the MACH architecture. The software's core functionalities encompass roles for administrators, employees, and customers, with a current focus on footwear sales.
 
@@ -53,8 +54,9 @@ Unregistered users should be able to register in the system. After registration,
 
 In terms of architecture, it must consist of microservices (resulting in a relatively large number of GitHub repositories) connecting to a single API gateway. The application aims to utilize existing CMS and E-commerce solutions, incorporating specific functionalities as needed (e.g., sending emails to users). The application is intended to be "cloud-agnostic," deployable on any cloud service, facilitated by Docker. The web component of the application must also be responsive.
 
-## Technologies
 <div id="technologies"></div>
+
+## Technologies
 
 ### Frontend 🎭
 - **React** - A  JavaScript library for building user interfaces
@@ -89,9 +91,9 @@ In terms of architecture, it must consist of microservices (resulting in a relat
 - **Kong** - An open-source API gateway that manages, secures, and scales API requests, providing a centralized point for controlling and monitoring API traffic.
 The API gateway acts as a middleware connecting the frontend and backend. Its primary role is to route traffic to designated microservices, handling authentication and rate limitation to free up microservices for core business logic. Deployment in Docker and maintaining a dedicated repository are recommended practices.
 
+<div id="mach"></div>
 
 ## MACH Architecture in context of our project
-<div id="mach"></div>
 
 This architectural framework is built upon the foundation of multiple independent microservices.
 
@@ -103,9 +105,9 @@ The "C" denotes Cloud native, emphasizing the need to leverage the full spectrum
 
 The "H" stands for "Headless".  Iteans decoupling the backend (microservices) from the frontend. It allows flexibility by separating the presentation layer, enabling various frontends to access the same backend services without being tied to a specific format.
 
+<div id="arch"></div>
 
 ## Architecture and microservices
-<div id="arch"></div>
 
 Application is composed of 2 parts:
 <ul>
@@ -131,8 +133,10 @@ Frontend component diagram:
 
 ![compo](https://github.com/CroAnna/Stylo/assets/90924342/bb14dbdc-0632-4362-927e-06c377aa6696)
 
-## Stylo UI
+
 <div id="ui"></div>
+
+## Stylo UI
 
 Designed in Figma. 
 ![homepage](https://github.com/CroAnna/Stylo/assets/90924342/ab4b58cd-923c-498b-b930-95e9c34aebef)
