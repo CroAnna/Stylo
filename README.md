@@ -11,7 +11,7 @@ This was a team project and created by 5 students (including myself) and reviewe
 
 <p>Watch the video: 👇</p>
 
-[<img src="https://i9.ytimg.com/vi_webp/VIzjsMCsqaA/mq2.webp?sqp=CLjuhK4G-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGBMgUSh_MA8=&rs=AOn4CLCc3LLwHdzUuTI5sLTJWTl0aq6f_g"/>](https://youtu.be/VIzjsMCsqaA)
+[<img src="https://img.youtube.com/vi/VIzjsMCsqaA/hqdefault.jpg"/>](https://youtu.be/VIzjsMCsqaA?si=7Xju6KpGcK5kkK07)
 
 </p>
 
